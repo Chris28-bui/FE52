@@ -11,4 +11,6 @@
     git config ==global user.email "email"
     đẩy code lên server (local repo => remote repository): git push -u origin master
     lần thứ 2 trở đi thì git push
+    Tạo branch mới: git checkout -b branch-name
+    
 */
