@@ -14,4 +14,5 @@
     tạo 1 branch mới: git checkout -b branch-name
     quay lại branch: git checkout branch-name
     add file to branch master: git pull
+    clone về: git clone url
 */
